@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/shanibh38/GDM_A/issues"
   },
-  "homepage": "https://github.com/shanibh38/GDM_A#readme"
+  "homepage": "https://github.com/shanibh38/GDM_A#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "sqlite3": "^4.0.6",
+    "util": "^0.11.1"
+  }
 }
